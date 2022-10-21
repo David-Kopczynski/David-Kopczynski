@@ -10,10 +10,13 @@
 
 <h2 align="left">💻 Tech Stack<h3>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=david-kopczynski&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=david-kopczynski&show_icons=true&locale=en&theme=react&hide_border=true)
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=david-kopczynski&theme=react&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=david-kopczynski&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=david-kopczynski&show_icons=true&locale=en&theme=react&hide_border=true" alt="Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=david-kopczynski&theme=react&hide_border=true" alt="Contributions" />
+</p>
 
 <p align=center>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -53,7 +56,4 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-
-<h2 align="left">✍️ Farewell<h3>
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=react)
+  
