@@ -1,0 +1,69 @@
+<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .terminal {
+          display: flex;
+          flex-direction: column;
+          height: 300px;
+
+          --radius: 10px;
+        }
+
+        .app-bar {
+          height: 30px;
+          background-color: #303030;
+          border: 1px solid #3f3f3f;
+          border-bottom: none;
+          border-radius: var(--radius) var(--radius) 0 0;
+          color: white;
+          font-family: monospace;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+
+        .app {
+          height: 100%;
+          background-color: #1f1f1f;
+          border: 1px solid #2f2f2f;
+          border-top: none;
+          border-radius: 0 0 var(--radius) var(--radius);
+          box-shadow: inset 0 4px 4px -4px #161616;
+          padding: 12px 8px;
+          color: white;
+          font-family: monospace;
+        }
+
+        .machine {
+          color: #2ec27e;
+        }
+
+        pre {
+          margin: 0;
+        }
+      </style>
+
+
+      <div class="terminal">
+        <div class="app-bar">
+          GitHub Profile
+        </div>
+        <div class="app">
+          <span class="machine">[visitor@github:~]$ </span><span>whois david</span>
+          <pre>system:    nixos (linux)</pre>
+          <pre>info:      david e. c. kopczynski</pre>
+          <pre>location:  aachen, germany</pre>
+          <pre>0-day:     2001-12-23</pre>
+          <pre>skills:    ts, js, c, rust, python, haskell</pre>
+          <pre>education: computer science b.sc., rwth aachen</pre>
+          <pre>languages: german, english</pre>
+          <pre>tags:      reproducible, hardware, server, 3d printing, biking</pre>
+          <pre>contact:   mail@davidkopczynski.com</pre>
+          <br />
+          <span class="machine">[visitor@github:~]$ </span><span>hire me here: mail@davidkopczynski.com</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
