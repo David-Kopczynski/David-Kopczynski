@@ -42,6 +42,16 @@
         pre {
           margin: 0;
         }
+
+        .cursor {
+          animation: blink 1.25s step-start infinite;
+        }
+
+        @keyframes blink {
+          50% {
+            opacity: 0;
+          }
+        }
       </style>
 
 
@@ -50,7 +60,8 @@
           GitHub Profile
         </div>
         <div class="app">
-          <span class="machine">[visitor@github:~]$ </span><span>whois david</span>
+          <span class="machine">[visitor@github:~]$</span>
+          <span>whois david</span>
           <pre>system:    nixos (linux)</pre>
           <pre>info:      david e. c. kopczynski</pre>
           <pre>location:  aachen, germany</pre>
@@ -61,7 +72,8 @@
           <pre>tags:      reproducible, hardware, server, 3d printing, biking</pre>
           <pre>contact:   mail@davidkopczynski.com</pre>
           <br />
-          <span class="machine">[visitor@github:~]$ </span><span>hire me here: mail@davidkopczynski.com</span>
+          <span class="machine">[visitor@github:~]$</span>
+          <span>hire me here: mail@davidkopczynski.com</span><span class="cursor">▉</span>
         </div>
       </div>
     </div>
