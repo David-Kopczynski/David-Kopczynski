@@ -64,10 +64,11 @@
           <span>whois david</span>
           <pre>system:    nixos (linux)</pre>
           <pre>info:      david e. c. kopczynski</pre>
-          <pre>location:  aachen, germany</pre>
+          <pre>location:  wilnsdorf, germany</pre>
           <pre>0-day:     2001-12-23</pre>
           <pre>skills:    ts, js, c, rust, python, haskell</pre>
           <pre>education: computer science b.sc., rwth aachen</pre>
+          <pre>work:      siegenia, embedded software engineer</pre>
           <pre>languages: german, english</pre>
           <pre>tags:      reproducible, hardware, server, 3d printing, biking</pre>
           <pre>contact:   mail@davidkopczynski.com</pre>
